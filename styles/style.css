@@ -1,0 +1,11 @@
+.item { 
+	height: 200px;
+	background-color: rebeccapurple;
+	border: 1px solid;
+	font-size: 30px;
+	text-align: center;
+}
+.main{
+	display: grid ;
+	grid-template-columns: 1fr 1fr 1fr 1fr
+}
